@@ -1,7 +1,6 @@
 import random
 
 rnm = random.randint(1, 100)
-print(rnm)
 print("guess a number between 1-100")
 gs = 0
 
